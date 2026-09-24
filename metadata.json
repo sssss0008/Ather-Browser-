@@ -1,0 +1,6 @@
+{
+  "name": "Aether Browser",
+  "description": "Next-gen all-in-one internet operating environment with multi-device layouts, AI co-pilot, developer tools, dual split-screen, privacy shield, and tab workspaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

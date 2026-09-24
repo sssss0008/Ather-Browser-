@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Aether Browser</string>
+    <string name="search_or_type_url">Search or enter web address…</string>
+    <string name="new_tab">New Tab</string>
+    <string name="workspaces">Workspaces</string>
+    <string name="privacy_shield">Privacy Shield</string>
+    <string name="developer_tools">Developer Tools</string>
+    <string name="ai_copilot">Aether AI Co-Pilot</string>
+    <string name="split_screen">Split Screen</string>
+    <string name="reader_mode">Reader Mode</string>
+    <string name="desktop_site">Desktop Site</string>
+    <string name="downloads">Downloads</string>
+    <string name="history">History</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="settings">Settings</string>
+</resources>
